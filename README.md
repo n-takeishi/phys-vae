@@ -10,6 +10,8 @@ In Advances in Neural Information Processing Systems 34 (NeurIPS), 2021.
 
 [https://arxiv.org/abs/2102.13156](https://arxiv.org/abs/2102.13156)
 
+NOTE: Some notations are not consistent between the paper and the codes here. If you find something too unclear, feel free to ask me! You can find contact information from my website.
+
 ## Prerequisite
 
 - Python 3.8.3
